@@ -1,0 +1,27 @@
+{
+  "credits": 1100,
+  "last_updated": "2026-06-30T13:16:00Z",
+  "transactions": [
+    {
+      "id": "tx_init",
+      "timestamp": "2026-06-30T17:37:13Z",
+      "action": "Initialization",
+      "delta": 0,
+      "balance": 1250
+    },
+    {
+      "id": "tx_builds_session",
+      "timestamp": "2026-06-30T13:15:00Z",
+      "action": "Build Command Executions (6 builds)",
+      "delta": -60,
+      "balance": 1190
+    },
+    {
+      "id": "tx_api_calls_session",
+      "timestamp": "2026-06-30T13:16:00Z",
+      "action": "Standard API & Tool Calls",
+      "delta": -90,
+      "balance": 1100
+    }
+  ]
+}

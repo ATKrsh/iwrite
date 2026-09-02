@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">iwrite</string>
+    <string name="title_activity_main">iwrite</string>
+    <string name="package_name">com.example.iwrite</string>
+    <string name="custom_url_scheme">com.example.iwrite</string>
+</resources>
